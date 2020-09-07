@@ -12,6 +12,10 @@ table{
 }
 
 #rematch{
-    margin-top: 100px;
+    margin-top: 50px;
     margin-left: 60px;
+}
+
+table.score{
+    font-size: 30px;
 }
